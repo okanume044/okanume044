@@ -7,9 +7,9 @@ Frontend Developer
 I've been coding for 5 months mastering the skills HTML, CSS, Bootstrap, Basics of JavaScript and can transform UI/UX to actual codes to suit your businesses
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [okanugracious@gmail.com](mailto:okanugracious@gmail.com)
-* 🧠  I'm learning Advanced JavaScript and MySQL
-* 🤝  I'm open to collaborating on Projects and Work Offers
+* ✉️  You can contact me at [okanumegracious@gmail.com](mailto:okanugracious@gmail.com)
+* 🧠  I'm learning Advanced JavaScript and REACT
+* 🤝  I'm open to collaborating on Projects and Work Offers
 * ⚡  I love Drake
 
 ### Skills
